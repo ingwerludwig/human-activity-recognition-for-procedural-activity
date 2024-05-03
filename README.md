@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## About The Human Activity Recognition Project using Pytorch Framework
+## The Human Activity Recognition Project using Pytorch Framework
 ### Built With
 * [![PyTorch][PyTorch]][PyTorch-url]
 * [![Python][Python]][Python-url]
