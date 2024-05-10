@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: center;">
-  <img src="resources/mmdet-logo.png" width="150"/>
-  <img src="resources/mmpose-logo.png" width="150"/>
-  <img src="https://github.com/open-mmlab/mmaction2/raw/main/resources/mmaction2_logo.png" width="150"/>
+  <img src="resources/mmdet-logo.png" width="200"/>
+  <img src="resources/mmpose-logo.png" width="200"/>
+  <img src="https://github.com/open-mmlab/mmaction2/raw/main/resources/mmaction2_logo.png" width="200"/>
 </div>
 
 <!-- ABOUT THE PROJECT -->
