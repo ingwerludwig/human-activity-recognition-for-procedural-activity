@@ -1,5 +1,5 @@
 <p align="center">
-       <img src="resources/mmdet-logo.png" width="200"/>
+       <img src="resources/mmdet-logo.png" width="300"/>
         &nbsp;&nbsp;&nbsp;
     </p>
 
