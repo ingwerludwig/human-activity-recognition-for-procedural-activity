@@ -95,7 +95,7 @@ _This is the installation guide for Setting Pytorch with CUDA GPU Support_
     git clone https://github.com/ingwerludwig/human-activity-recognition-for-procedural-activity.git
     ```
 
-## Important!
+## Important Link!
 1. CUDA Compability
 <a href="https://docs.nvidia.com/deploy/cuda-compatibility/index.html#cuda-intro">Here</a>
 2. MM Detection Repository
