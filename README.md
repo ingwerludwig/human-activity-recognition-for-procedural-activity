@@ -72,7 +72,7 @@ _This is the installation guide for Setting Pytorch with CUDA GPU Support_
     ```
 10. Install PyTorch (Must be the exact same version with the CUDA Toolkit Version)
     ```sh
-    pip3 install torch==1.10.2+cu113 torchvision==0.11.3+cu113 torchaudio==0.10.2+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+    pip install torch==1.10.2+cu113 torchvision==0.11.3+cu113 torchaudio==0.10.2+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
 
     ```
 11. Verify GPU Support
