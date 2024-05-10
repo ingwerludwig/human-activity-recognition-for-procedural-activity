@@ -94,7 +94,31 @@ _This is the installation guide for Setting Pytorch with CUDA GPU Support_
     ```sh
     git clone https://github.com/ingwerludwig/human-activity-recognition-for-procedural-activity.git
     ```
+    
+## Important!
+1. CUDA Compability
+<a href="https://docs.nvidia.com/deploy/cuda-compatibility/index.html#cuda-intro"></a>
+2. MM Detection Repository
+<a href="https://github.com/open-mmlab/mmdetection"></a>
+3. MM Pose Repository
+<a href="https://github.com/open-mmlab/mmpose"></a>
+4. MM Action2 Repository
+<a href="https://github.com/open-mmlab/mmaction2"></a>
+5. Steps for Completely removing CUDA Toolkit and NVIDIA Driver
 
+    ```sh
+    sudo apt-get --purge -y remove 'cuda*'
+    sudo apt-get --purge -y remove 'nvidia*'
+    sudo apt-get remove --purge '^nvidia-.*'
+    sudo apt-get install ubuntu-desktop
+    sudo rm /etc/X11/xorg.conf
+    echo 'nouveau' | sudo tee -a /etc/modules
+    sudo apt-get remove --purge '^nvidia-.*'
+    sudo apt-get purge nvidia*
+    sudo apt-get autoremove
+    sudo apt-get autoclean
+    sudo rm -rf /usr/local/cuda*
+    ```
 
 <!-- LICENSE -->
 ## License
