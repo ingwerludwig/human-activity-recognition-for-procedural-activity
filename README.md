@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center;">
   <img src="resources/mmdet-logo.png" width="300"/>&nbsp;
-  <img src="resources/mmpose-logo.png" width="150" style="margin-right: 20px;"/>
+  <img src="resources/mmpose-logo.png" width="150" style="margin-right: 1000px;"/>
   <img src="https://github.com/open-mmlab/mmaction2/raw/main/resources/mmaction2_logo.png" width="200"/>
 </div>
 
