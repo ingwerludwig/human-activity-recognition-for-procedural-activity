@@ -8,7 +8,14 @@
 
 ### Prerequisite
 1. Python 3.8.15 Installed </br>
-2. Conda Installed with Python 3.8.15</br>
+2. Create Conda Environment</br>
+    ```sh
+    conda create -n HAR-mmlab python=3.8.15
+    ```
+    ```sh
+    conda activate HAR-mmlab
+    ```
+3. Linux OS (Ubuntu 20.04)
 
 ### Installation
 _This is the installation guide for Setting Pytorch with CUDA GPU Support_
