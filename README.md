@@ -94,16 +94,16 @@ _This is the installation guide for Setting Pytorch with CUDA GPU Support_
     ```sh
     git clone https://github.com/ingwerludwig/human-activity-recognition-for-procedural-activity.git
     ```
-    
+
 ## Important!
 1. CUDA Compability
-<a href="https://docs.nvidia.com/deploy/cuda-compatibility/index.html#cuda-intro"></a>
+<a href="https://docs.nvidia.com/deploy/cuda-compatibility/index.html#cuda-intro">Here</a>
 2. MM Detection Repository
-<a href="https://github.com/open-mmlab/mmdetection"></a>
+<a href="https://github.com/open-mmlab/mmdetection">Here</a>
 3. MM Pose Repository
-<a href="https://github.com/open-mmlab/mmpose"></a>
+<a href="https://github.com/open-mmlab/mmpose">Here</a>
 4. MM Action2 Repository
-<a href="https://github.com/open-mmlab/mmaction2"></a>
+<a href="https://github.com/open-mmlab/mmaction2">Here</a>
 5. Steps for Completely removing CUDA Toolkit and NVIDIA Driver
 
     ```sh
