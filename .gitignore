@@ -1,2 +1,3 @@
 models/pytorch/pose_coco
 ingwer-python-env/*
+pose-prediction-demo-only/*
